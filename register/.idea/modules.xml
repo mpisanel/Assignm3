@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lists/lists.iml" filepath="$PROJECT_DIR$/lists/lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mape/mape.iml" filepath="$PROJECT_DIR$/mape/mape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register.iml" filepath="$PROJECT_DIR$/register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setp/setp.iml" filepath="$PROJECT_DIR$/setp/setp.iml" />
+    </modules>
+  </component>
+</project>
